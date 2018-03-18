@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+static/* linguist-vendored
+templates/* linguist-vendored
+datasets/* linguist-vendored
+working_dir/* linguist-vendored
+*.ipynb linguist-vendored
