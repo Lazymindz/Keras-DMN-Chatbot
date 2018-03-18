@@ -23,8 +23,8 @@ train = True
 ```
 Increase the number of epochs.
 ```
-[strings]
-train = True
+[ints]
+epochs = 1000
 ```
 
 __To Test the model__:
