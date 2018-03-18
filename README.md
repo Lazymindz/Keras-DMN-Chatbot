@@ -13,7 +13,7 @@ This repository contain the Keras implementation of RNN to answer a range of bab
 
 ## Configuration
 
-Current model is not trained for a mere 15 mins, and as such you will not see appropriate response for the questions on the stories.
+Current model is trained for a mere 15 mins, and as such you will not see appropriate response for the questions on the stories.
 
 __To train the model__:
 Set the Train parameter within **'model_config.ini'** to 'True'.
